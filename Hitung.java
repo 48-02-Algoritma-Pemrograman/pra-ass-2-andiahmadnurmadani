@@ -52,7 +52,7 @@ public class Hitung{
         System.out.println("Nilai minimal : " + terkecil());
         System.out.println("Nilai maksimal : " + terbesar());
         System.out.println("Nilai rata-rata : " + rataRata());
-
+        
         /* Pekerjaan anda berakhir sini */
     }
 }
