@@ -69,7 +69,7 @@ jobs:
       uses: classroom-resources/autograding-io-grader@v1
       with:
         test-name: Antara 5 dan 10 dengan lembur
-        setup-command: java Gaji.java
+        setup-command: javac Gaji.java
         command: java Gaji
         input: |-
           10
